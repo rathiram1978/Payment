@@ -3,7 +3,7 @@ public class Payment {
 	public static void main(String[] args) {
 		// create a person 
 		Person person  = new Person();
-		person.setFirstName("Jerine31");
+		person.setFirstName("Jerine");
 		person.setLastName("Joseph");
 		person.setHourlyRate(75);
 		System.out.println(person.toString());
