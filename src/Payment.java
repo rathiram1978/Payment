@@ -3,11 +3,7 @@ public class Payment {
 	public static void main(String[] args) {
 		// create a person 
 		Person person  = new Person();
-<<<<<<< HEAD
 		person.setFirstName("JerineTest");
-=======
-
->>>>>>> 0bc391b273adac43506268996aa1989251a930a1
 		person.setLastName("Joseph");
 		person.setHourlyRate(75);
 		System.out.println(person.toString());
